@@ -1,0 +1,9 @@
+x=0
+y=0
+current_direction=1
+life=2
+state=0
+date_last_state=0
+range=1
+nb_bomb=1
+key=0

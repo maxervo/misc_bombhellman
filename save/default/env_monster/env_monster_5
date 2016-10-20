@@ -1,0 +1,98 @@
+Monster 0:
+exist=1
+x=9
+y=2
+current_direction=2
+life=5
+state=0
+aura=0
+date_last_action=0
+range=2
+
+Monster 1:
+exist=1
+x=3
+y=5
+current_direction=2
+life=5
+state=0
+aura=0
+date_last_action=0
+range=2
+
+Monster 2:
+exist=0
+x=0
+y=0
+current_direction=0
+life=0
+state=0
+aura=0
+date_last_action=0
+range=0
+
+Monster 3:
+exist=0
+x=0
+y=0
+current_direction=0
+life=0
+state=0
+aura=0
+date_last_action=0
+range=0
+
+Monster 4:
+exist=0
+x=0
+y=0
+current_direction=0
+life=0
+state=0
+aura=0
+date_last_action=0
+range=0
+
+Monster 5:
+exist=0
+x=0
+y=0
+current_direction=0
+life=0
+state=0
+aura=0
+date_last_action=0
+range=0
+
+Monster 6:
+exist=0
+x=0
+y=0
+current_direction=0
+life=0
+state=0
+aura=0
+date_last_action=0
+range=0
+
+Monster 7:
+exist=0
+x=0
+y=0
+current_direction=0
+life=0
+state=0
+aura=0
+date_last_action=0
+range=0
+
+Monster 8:
+exist=0
+x=0
+y=0
+current_direction=0
+life=0
+state=0
+aura=0
+date_last_action=0
+range=0
