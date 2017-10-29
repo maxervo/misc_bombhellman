@@ -1,4 +1,4 @@
-# small_bombhellman
+# Bombhellman
 2D Game Bomberman-like, C/SDL
 
 Code can be used as boilerplate for 2D games C/SDL : classic structures, game loop...etc
